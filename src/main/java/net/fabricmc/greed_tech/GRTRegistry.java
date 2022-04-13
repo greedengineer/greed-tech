@@ -1,6 +1,5 @@
 package net.fabricmc.greed_tech;
 
-import net.fabricmc.fabric.api.client.networking.v1.C2SPlayChannelEvents.Register;
 import net.fabricmc.greed_tech.blocks.GRTBlock;
 import net.fabricmc.greed_tech.common.GRTProperties;
 import net.minecraft.item.BlockItem;
